@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomDockingHandlerStateVS2005.cs](./CS/RestrictedDraggingExample/Docking/CustomDockingHandlerStateVS2005.cs) (VB: [CustomDockingHandlerStateVS2005.vb](./VB/RestrictedDraggingExample/Docking/CustomDockingHandlerStateVS2005.vb))
+* [CustomDockPanel.cs](./CS/RestrictedDraggingExample/Docking/CustomDockPanel.cs) (VB: [CustomDockPanel.vb](./VB/RestrictedDraggingExample/Docking/CustomDockPanel.vb))
+* [CustomDockPanelMouseHandler.cs](./CS/RestrictedDraggingExample/Docking/CustomDockPanelMouseHandler.cs) (VB: [CustomDockPanelMouseHandler.vb](./VB/RestrictedDraggingExample/Docking/CustomDockPanelMouseHandler.vb))
+<!-- default file list end -->
 # How to prevent the DockPanel from being dragged outside the Form bounds
 
 
